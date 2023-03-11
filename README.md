@@ -31,7 +31,6 @@ The project template includes the following files:
 * dl.cfg - configuration file for ETL process
 * data/song-data.zip - Sample song dataset for development
 * data/log-data.zip - Sample log dataset for development
-* QueryTest.ipynb - Notebook for testing queries
 
 ## Schema
 
