@@ -1,4 +1,4 @@
-# Project: Data Lake using Amazon Web Services S3 and Apache Spark
+# Project: Data Lake using Amazon Web Services S3 and AWS EMR with Apache Spark
 
 ## Scenario
 
